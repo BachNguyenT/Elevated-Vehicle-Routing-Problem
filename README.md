@@ -1,7 +1,7 @@
 # Elevated-Vehicle-Routing-Problem
 - A modified Vehicle Routing Problem where topographic characteristics of the operation area is accounted into the cost of each arcs, rather than assuming a flat routing area.
 - Problem Formulation: minimize total cost (fuel consumption) of the operation subject to Classical VRP constraints as well as minimizing the net elevation traveled by the vehicle
-- Restricted to non - regenerative vehicles only
+- Restricted to non-regenerative vehicles only
 - Graph previously formulated using real garbage collection operations (undisclosed)
 - Coordinates for each node (customer address & depot) requested from Google Maps Geocoding API
 - Direction between each node in the graph requested from Google Maps Direction API
